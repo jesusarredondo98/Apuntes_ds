@@ -225,6 +225,7 @@ mod5/
 *.xlsx
 *.json
 *.csv
+*.xls
 **/Practica_1/Fraud_Data_sep.txt
 
 
